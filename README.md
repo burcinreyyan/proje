@@ -1,0 +1,2 @@
+# proje
+deep_learning
