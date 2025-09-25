@@ -1,0 +1,38 @@
+# Python cache ve derleme dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# Veri seti dosyaları
+*.zip
+*.csv
+seg_train/
+seg_test/
+seg_pred/
+
+# Görüntü dosyaları
+*.jpg
+*.png
+
+# Model ağırlıkları ve çıktılar
+*.h5
+*.ckpt
+*.npy
+
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+
+# IDE ve sistem dosyaları
+.DS_Store
+.idea/
+.vscode/
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
